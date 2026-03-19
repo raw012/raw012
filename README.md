@@ -4,8 +4,8 @@
 <p align="center" style="margin-top:-25px;">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Build;Learn;Balance&center=true&width=400&height=50&fontSize=40&color=16A34A">
 </p>
-# Hi 👋 I'm Yirui (Ray) Wang  
 
+# Hi 👋 I'm Yirui (Ray) Wang  
 🎓 Math-CS @ UC San Diego  
 🤖 Software Development & AI Tool Development 
 📫 Email: rayyiruiwang@gmail.com  | raw012@ucsd.edu
