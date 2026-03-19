@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:86efac,100:16a34a&height=200&section=header&text=Yirui(Ray)%20Wang&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 <p align="center" style="margin-top:-50px;">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Build;Learn;Balance&center=true&width=400&height=50&fontSize=42&color=16A34A">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Build;Learn;Balance&center=true&width=400&height=70&fontSize=52&color=16A34A">
 </p>
 
 # Hi 👋 I'm Yirui (Ray) Wang  
