@@ -3,7 +3,7 @@
 # Hi 👋 I'm Yirui (Ray) Wang  
 
 🎓 Math-CS @ UC San Diego  
-🤖 AI Applications • Backend Development • Creative Technology  
+🤖 Software Development & AI Development 
 
 
 ---
@@ -11,7 +11,7 @@
 ## 🚀 About Me  
 I’m a developer passionate about building **AI-powered applications** and exploring the intersection of **technology, creativity, and real-world impact**.  
 
-I enjoy turning ideas into working systems — especially projects that combine **AI + backend + user experience**.
+I enjoy turning ideas into working systems — especially projects that combine **AI + Frontend Design + Data Analysis + Backend Integration**.
 
 ---
 
@@ -25,15 +25,15 @@ I enjoy turning ideas into working systems — especially projects that combine 
 
 ---
 
-### 🏥 SOS Emergency Web App  
+### ❤️‍🔥 SOS Emergency Web App  
 **FastAPI + SQL + Google Maps API**  
-- Designed a real-time emergency response web app  
+- Designed a heart-attack emergency assistant web app  
 - Built backend using FastAPI with structured data management  
 - Integrated map-based AED locator with guided emergency resources  
  
 ---
 
-### 👁 Just Walk Out System  
+### 🛒 Just Walk Out System  
 **Computer Vision Prototype (YOLO + PyTorch)**  
 - Developed an object detection pipeline for automated checkout  
 - Implemented IoU calculation and loss functions  
@@ -58,9 +58,9 @@ I enjoy turning ideas into working systems — especially projects that combine 
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🌐 Web & Backend  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🤖 AI / Data  
@@ -76,13 +76,12 @@ I enjoy turning ideas into working systems — especially projects that combine 
 ---
 
 ## 🌱 Currently Learning  
-- FastAPI (advanced backend design)  
-- AI + Backend Integration  
-- Building scalable AI applications  
+- FastAPI  
+- OpenClaw
 
 ---
 
 ## 🎯 Goals  
-- Build impactful AI-powered products  
+- Build technology that solves real-world community problems and improves everyday life
 - Explore creative + technical career paths  
 - Grow into a strong software / AI engineer  
