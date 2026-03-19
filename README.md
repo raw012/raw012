@@ -1,8 +1,8 @@
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=220&section=header&text=Yirui%20Wang&fontSize=42&fontColor=ffffff&animation=fadeIn)
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Build;Learn;Balance&center=true&width=500&height=60&fontSize=42&pause=1000&color=FFFFFF">
 </p>
+
 # Hi 👋 I'm Yirui (Ray) Wang  
 
 🎓 Math-CS @ UC San Diego  
