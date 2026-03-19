@@ -1,4 +1,6 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=220&section=header&text=Build%20%20&%20%20Learn%20%20&%20%20Balance&fontSize=42&fontColor=ffffff&animation=fadeIn)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Build;Learn;Balance&center=true&width=400&height=50&fontSize=40">
+</p>
 
 # Hi 👋 I'm Yirui (Ray) Wang  
 
