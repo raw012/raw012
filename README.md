@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:86efac,100:16a34a&height=200&section=header&text=Yirui(Ray)%20Wang&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
-<p align="center" style="margin-top:-25px;">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Build;Learn;Balance&center=true&width=400&height=30&fontSize=52&color=16A34A">
-</p>
 
 # Hi 👋 I'm Yirui (Ray) Wang  
 🎓 Math-CS @ UC San Diego  
