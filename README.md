@@ -3,14 +3,14 @@
 # Hi 👋 I'm Yirui (Ray) Wang  
 
 🎓 Math-CS @ UC San Diego  
-🤖 Software Development & AI Development 
-📫 Email: rayyiruiwang@gmail.com  
+🤖 Software Development & AI Tool Development 
+📫 Email: rayyiruiwang@gmail.com  | raw012@ucsd.edu
 🔗 LinkedIn: https://www.linkedin.com/in/yiruiraywang/
 
 ---
 
 ## 🚀 About Me  
-I’m a Math–Computer Science student at UC San Diego interested in AI systems, intelligent tools, and practical software engineering. 
+I’m a Math–Computer Science student at UC San Diego interested in latest technologies, Computer Vision, LLM, AI agent, data analysis and software development. I love playing basketball, working out, cooking, learn new skills, and try new experiences. 
 
 ---
 
