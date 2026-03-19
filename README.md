@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=220&section=header&text=Yirui(Ray)%20Wang&fontSize=42&fontColor=ffffff&animation=fadeIn)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=220&section=header&text=Build%20%7C%20Learn%20%7C%20Balance&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
 # Hi 👋 I'm Yirui (Ray) Wang  
 
