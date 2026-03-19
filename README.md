@@ -12,7 +12,7 @@
 ## 🚀 About Me  
 I’m a Math–Computer Science student at UC San Diego interested in latest technologies, Computer Vision, LLM, AI agent, data analysis and software development. 
 
-I love playing basketball, working out, cooking, learning new skills, and trying new experiences. 
+I love playing basketball, working out, cooking, learning new skills, trying new experiences, and enjoying life.
 
 ---
 
