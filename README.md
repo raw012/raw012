@@ -5,8 +5,6 @@
 🎓 Math-CS @ UC San Diego  
 🤖 AI Applications • Backend Development • Creative Technology  
 
-📫 Email: rayyiruiwang@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/yiruiraywang/  
 
 ---
 
