@@ -9,9 +9,7 @@
 ---
 
 ## 🚀 About Me  
-I’m a developer passionate about building **AI-powered applications** and exploring the intersection of **technology, creativity, and real-world impact**.  
-
-I enjoy turning ideas into working systems — especially projects that combine **AI + Frontend Design + Data Analysis + Backend Integration**.
+I’m a Math–Computer Science student at UC San Diego interested in AI systems, intelligent tools, and practical software engineering. 
 
 ---
 
