@@ -8,7 +8,7 @@
 
 | | Name | Description |
 |---|---|---|
-| 🤖 | [AI Interviewer](#) | LLM-powered mock interview platform with speech-to-text and adaptive follow-up |
+| 🤖 | [AI Interviewer](https://github.com/raw012/AI-Interviewer) | LLM-powered mock interview platform with speech-to-text and adaptive follow-up |
 | 🌊 | [TidalGate](https://github.com/EkagraAgarwal/UCPU) | Wave energy prediction system — 🏆 Best Use of Databricks & 🥈 Hardware+IoT @ DataHacks 2026 |
 | ❤️‍🔥 | [SOS Emergency App](https://github.com/raw012/SOS-Project) | Cardiac emergency web app with CPR guidance and AED locator — 🏆 Audience Popularity Prize |
 | 🛒 | [Just Walk Out](https://github.com/raw012/JUST_WALK_OUT) | Computer vision prototype for automated checkout using YOLO + PyTorch |
