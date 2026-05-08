@@ -4,16 +4,15 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 | | Name | Description |
 |---|---|---|
-| 🤖 | [AI Interviewer](https://github.com/raw012/AI-Interviewer) | LLM-powered mock interview platform with speech-to-text and adaptive follow-up |
 | 🌊 | [TidalGate](https://github.com/EkagraAgarwal/UCPU) | Wave energy prediction system — 🏆 Best Use of Databricks & 🥈 Hardware+IoT @ DataHacks 2026 |
+| 🤖 | [AI Interviewer](https://github.com/raw012/AI-Interviewer) | LLM-powered mock interview platform with speech-to-text and adaptive follow-up |
 | ❤️‍🔥 | [SOS Emergency App](https://github.com/raw012/SOS-Project) | Cardiac emergency web app with CPR guidance and AED locator — 🏆 Audience Popularity Prize |
 | 🛒 | [Just Walk Out](https://github.com/raw012/JUST_WALK_OUT) | Computer vision prototype for automated checkout using YOLO + PyTorch |
-| 💳 | [Campus Payment System](https://github.com/raw012/Campus_Payment_System_Simulation) | Java inheritance-based payment system with 100% JUnit test coverage |
-| 🐦 | [Flappy Bird](https://github.com/raw012/flappy_bird_sol_starter) | 2D game replica built in Swift/Xcode to explore physics and animation rendering |
+| 📧 | [Gmail Cleaner](https://github.com/raw012/gmail-cleaner) | Chrome extension for bulk Gmail deletion with filters, undo support, and Gmail API integration |
 
 ---
 
