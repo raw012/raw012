@@ -14,4 +14,3 @@
 | 🛒 | [Just Walk Out](https://github.com/raw012/JUST_WALK_OUT) | Computer vision prototype for automated checkout using YOLO + PyTorch |
 | 🔥 | [VLM Wildfire Risk Perception](https://github.com/raw012/WildFireDangerChecker) | VLM-based wildfire detection (LLaMA 4 Scout + FastAPI + OpenWeatherMap) — UN wildfire hackathon |
 
----
