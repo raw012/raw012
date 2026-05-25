@@ -1,4 +1,5 @@
 # Hi 👋 I'm Yirui (Ray) Wang
+![](https://ghchart.rshah.org/raw012)
 
 🎓 Math-CS @ UC San Diego &nbsp;|&nbsp; 🤖 Software & AI Development &nbsp;|&nbsp; 📫 [raw012@ucsd.edu](mailto:raw012@ucsd.edu) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/yiruiraywang/)
 
@@ -12,7 +13,7 @@
 | 🤖 | [AI Interviewer](https://github.com/raw012/AI-Interviewer) | LLM-powered mock interview platform with speech-to-text and adaptive follow-up |
 | ❤️‍🔥 | [SOS Emergency App](https://github.com/raw012/SOS-Project) | Cardiac emergency web app with CPR guidance and AED locator — 🏆 Audience Popularity Prize |
 | 🛒 | [Just Walk Out](https://github.com/raw012/JUST_WALK_OUT) | Computer vision prototype for automated checkout using YOLO + PyTorch |
-| 📧 | [Gmail Cleaner](https://github.com/raw012/gmail-cleaner) | Chrome extension for bulk Gmail deletion with filters, undo support, and Gmail API integration |
+| 🔥 | [VLM Wildfire Risk Perception](https://github.com/raw012/WildFireDangerChecker) | VLM-based wildfire detection (LLaMA 4 Scout + FastAPI + OpenWeatherMap) — UN wildfire hackathon |
 
 ---
 
